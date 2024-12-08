@@ -1,0 +1,14 @@
+F:\Backend\C#\Lesson4\bin\Debug\net9.0\Lesson4.exe
+F:\Backend\C#\Lesson4\bin\Debug\net9.0\Lesson4.deps.json
+F:\Backend\C#\Lesson4\bin\Debug\net9.0\Lesson4.runtimeconfig.json
+F:\Backend\C#\Lesson4\bin\Debug\net9.0\Lesson4.dll
+F:\Backend\C#\Lesson4\bin\Debug\net9.0\Lesson4.pdb
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.AssemblyInfoInputs.cache
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.AssemblyInfo.cs
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.csproj.CoreCompileInputs.cache
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.dll
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\refint\Lesson4.dll
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.pdb
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\Lesson4.genruntimeconfig.cache
+F:\Backend\C#\Lesson4\obj\Debug\net9.0\ref\Lesson4.dll
